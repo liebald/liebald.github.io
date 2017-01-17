@@ -1,0 +1,43 @@
+
+h1,h2,h3,h4,h5,h6,p
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+}
+
+p
+{	
+	font-size: 80%;
+
+}
+
+p.footnote
+{	text-align: center;
+	font-size: 60%;
+}
+
+
+a:link
+{	color: "#800000";
+	text-decoration: underline;
+}
+
+a:visited
+{	color: "#800000";
+	text-decoration: underline;
+}
+
+ul.square
+{
+	list-style-type: square
+	font: ;
+	font-size: 80%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: gray;
+}
+img
+{
+	float:left;
+	margin:0 10px;
+	border: solid 1px #666;
+}
